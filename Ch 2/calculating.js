@@ -1,4 +1,4 @@
-const cases = require('./cases.js');
+const cases = require('./exercise_2-1.js');
 const n = 8;
 const r = 3;
 
